@@ -3,4 +3,4 @@ st.title("jojo ghogho")
 st.header("jojo ghogho")
 st.subheader("jojo ghogho")
 st.write("jojo ghogho")
-st.button
+st.button("ＫＡＫＵＢＯＴＡＮＮ")
