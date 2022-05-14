@@ -1,2 +1,2 @@
 import streamlit as st
-st.title("jojo gyogyo")
+st.title("jojo ghogho")
